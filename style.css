@@ -13,10 +13,19 @@ body {
 
 header {
     background-color: #FF9A6C;
+    display: flex;
+    align-items: center;
+    justify-content: space-between ; 
+    padding: 24px 80px;
+    
 }
 
 
+header nav a {
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 32px;
+    
 
-h1 {
-    color: #FF9A6C;
 }
