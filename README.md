@@ -1,5 +1,5 @@
 # Languages
-- [Portuguese](https://github.com/gabrielcamarate/Calculadora-Interativa/tree/main/PT-BR-README.md)
+- [Portuguese](https://github.com/gabrielcamarate/landingpage-petlife/tree/main/PT-BR-README.md)
 
 # Veterinary Clinic Landing Page
 This project is a simple landing page for a veterinary clinic, designed to provide a welcoming and informative introduction to the clinic's services.
