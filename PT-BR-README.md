@@ -1,4 +1,4 @@
-# Idiomas
+# Languages
 - [English](https://github.com/gabrielcamarate/landingpage-petlife/tree/main/README.md)
 
 # Landing Page Clínica Veterinária
